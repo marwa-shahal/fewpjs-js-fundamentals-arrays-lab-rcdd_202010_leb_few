@@ -2,3 +2,4 @@
 pets.push ('odie'); 
 pets.unshift ('owl');
 pets.pop();
+pets.shift();
