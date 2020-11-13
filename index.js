@@ -1,9 +1,11 @@
 const append=['Milo', 'Otis', 'Garfield'];
-
 append.push ('Odie'); 
 
-pets.unshift ('odie');
+const prepend=['Milo', 'Otis', 'Garfield'];
+prepend.unshift ('odie');
 
-pets.pop();
+const removeLast=['Milo', 'Otis', 'Garfield'];
+removeLast.pop();
 
-pets.shift();
+const removeFirst=['Milo', 'Otis', 'Garfield'];
+removeFirst.shift();
