@@ -1,4 +1,4 @@
-const array pets ["Milo", "Otis", "Garfield"]
+const pets ["Milo", "Otis", "Garfield"];
 pets.push ('odie'); 
 pets.unshift ('odie');
 pets.pop();
