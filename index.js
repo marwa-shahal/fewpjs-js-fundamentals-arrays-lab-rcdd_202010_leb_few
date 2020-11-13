@@ -4,6 +4,6 @@ pets.push ('Odie');
 
 pets.unshift ('odie');
 
-pets.pop();
+pets.pop(Otis);
 
-pets.shift();
+pets.shift(Milo);
