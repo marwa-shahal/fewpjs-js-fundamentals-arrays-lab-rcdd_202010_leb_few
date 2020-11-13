@@ -1,5 +1,5 @@
 // Write your solution here!
 pets.push ('odie'); 
-pets.unshift ('owl');
+pets.unshift ('odie');
 pets.pop();
 pets.shift();
